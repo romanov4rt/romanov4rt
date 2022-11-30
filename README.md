@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romanov4rt
-- 👀 I’m interested in mobile&unity
-- 🌱 I’m currently learning c#&xaml
-- 💞️ I’m looking to collaborate on mobile&unity projects
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on game development projects
 - 📫 How to reach me ...romanov.4rt@gmail.com
 
 <!---
